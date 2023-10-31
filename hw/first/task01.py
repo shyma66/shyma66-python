@@ -1,1 +1,6 @@
-print("s")
+user_name = input(" What is your name? ")
+print("Hello," +  user_name)
+user_old = input("How old are you? ")
+print("Your age is " +  user_old )
+user_place = input("Where do you live? ")
+print("You live in " + user_place)
