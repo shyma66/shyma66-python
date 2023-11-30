@@ -1,4 +1,4 @@
-# first version
+# first_kurs version
 a = int(input("Enter a temperature in Celsius "))
 
 Fahrenheit = (a * 9/5) + 32

@@ -30,6 +30,6 @@ def fibonacci_numbers():
 # Example usage:
 fibonacci_gen = fibonacci_numbers()
 
-# Print the first 10 Fibonacci numbers
+# Print the first_kurs 10 Fibonacci numbers
 for i in range(10):
     print(next(fibonacci_gen))

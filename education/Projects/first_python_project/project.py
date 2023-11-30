@@ -8,7 +8,7 @@ main_text = [
     'PRESS "START" TO START!',
     'START'
 ]
-def message_display():  #first window
+def message_display():  #first_kurs window
 
     screen.fill("purple")
 

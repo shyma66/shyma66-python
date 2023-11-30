@@ -18,7 +18,7 @@ pygame.init()
 
 gameDisplay = pygame.display.set_mode((WIDTH_DISPLAY, HEIGHT_DISPLAY), pygame.RESIZABLE)
 
-pygame.display.set_caption("My first game")
+pygame.display.set_caption("My first_kurs game")
 
 
 run = True

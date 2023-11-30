@@ -15,7 +15,7 @@ The Zen of Python, by Tim Peters
 11.Unless explicitly silenced.
 12.In the face of ambiguity, refuse the temptation to guess.
 13.There should be one-- and preferably only one --obvious way to do it.
-14.Although that way may not be obvious at first unless you're Dutch.
+14.Although that way may not be obvious at first_kurs unless you're Dutch.
 15.Now is better than never.
 16.Although never is often better than *right* now.
 17.If the implementation is hard to explain, it's a bad idea.
@@ -34,7 +34,7 @@ The Zen of Python, by Tim Peters
 30.Unless explicitly silenced.
 31.In the face of ambiguity, refuse the temptation to guess.
 32.There should be one-- and preferably only one --obvious way to do it.
-33.Although that way may not be obvious at first unless you're Dutch.
+33.Although that way may not be obvious at first_kurs unless you're Dutch.
 34.Now is better than never.
 35.Although never is often better than *right* now.
 36.If the implementation is hard to explain, it's a bad idea.
@@ -52,7 +52,7 @@ The Zen of Python, by Tim Peters
 48.Unless explicitly silenced.
 49.In the face of ambiguity, refuse the temptation to guess.
 50.There should be one-- and preferably only one --obvious way to do it.
-51.Although that way may not be obvious at first unless you're Dutch.
+51.Although that way may not be obvious at first_kurs unless you're Dutch.
 52.Now is better than never.
 53.Although never is often better than *right* now.
 54.If the implementation is hard to explain, it's a bad idea.
