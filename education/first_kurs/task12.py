@@ -7,7 +7,7 @@ def largest_number():
 
 
 number1 = int(input("Enter the first_kurs number: "))
-number2 = int(input("Enter the second number: "))
+number2 = int(input("Enter the second_kurs number: "))
 
 result = largest_number()
 print(result,"is the largest number.")

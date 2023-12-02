@@ -9,7 +9,7 @@ match a :
     case _ :
         print(int(Fahrenheit),"°F")
 
-#second version
+#second_kurs version
 def celsius_to_fahrenheit(temps):
     # enter you code
     celsius_temperatures = list(map(lambda x: (x * 9/5)+ 32, temps))
