@@ -1,0 +1,70 @@
+
+print('+', end=' ')
+print('– '*4, end="")
+print("+", end=" ")
+print('– '*4, end="")
+print("+")
+print("|"," "*7,"|", " "*7, "|")
+print("|"," "*7,"|", " "*7, "|")
+print("|"," "*7,"|", " "*7, "|")
+print("|"," "*7,"|", " "*7, "|")
+print('+', end=' ')
+print('– '*4, end="")
+print("+", end=" ")
+print('– '*4, end="")
+print("+")
+print("|", end=" ")
+print(" "*7, end=" ")
+print("|",end=" ")
+print(" "*7, end=" ")
+print("|")
+print("|", end=" ")
+print(" "*7, end=" ")
+print("|",end=" ")
+print(" "*7, end=" ")
+print("|")
+print("|", end=" ")
+print(" "*7, end=" ")
+print("|",end=" ")
+print(" "*7, end=" ")
+print("|")
+print("|", end=" ")
+print(" "*7, end=" ")
+print("|",end=" ")
+print(" "*7, end=" ")
+print("|")
+print('+', end=' ')
+print('– '*4, end="")
+print("+", end=" ")
+print('– '*4, end="")
+print("+")
+def do_twice(f):
+    f()
+    f()
+
+def do_four(f):
+    do_twice(f)
+    do_twice(f)
+
+def print1():
+    print("+ - - - -", end=" ")
+
+def print2():
+    print("|        ", end=" ")
+
+def beams():
+    do_four(print1)
+    print("+")
+
+def slash():
+    do_four(print2)
+    print("|")
+def square():
+    beams()
+    do_four(slash)
+    beams()
+    do_four(slash)
+    beams()
+    do_four(slash)
+    beams()
+square()
