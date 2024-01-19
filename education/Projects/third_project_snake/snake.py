@@ -1,8 +1,8 @@
 import pygame
 import random
 
-width = 1080
-height = 720
+width = 720
+height = 540
 pygame.init()
 display = pygame.display.set_mode((width,height))
 

@@ -17,4 +17,4 @@ def draw(t, length, n):
     draw(t, length, n-1)
     t.lt(angle)
     t.bk(length*n)
-draw(pen,8,12)
+draw(pen,10,17)
