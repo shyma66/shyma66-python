@@ -134,5 +134,26 @@
 #
 # print("Десятичная часть числа:", decimal_part)
 
-a = float(input())
-print(a - int(a))
+# a = float(input())
+# print(a - int(a))
+
+# a , b , c = int(input()) , int(input()) , int(input())
+# ma = max(a,b,c)
+# mi = min(a,b,c)
+# sred = a + b + c - mi - ma
+# print(ma)
+# print(sred)
+# print(mi)
+
+# num = int(input())
+# a = num // 100
+# b = (num % 100) // 10
+# c = num % 10
+# sred = a + b+ c - max(a,b,c) - min(a,b,c)
+# if max(a,b,c) - min(a,b,c) == sred:
+#     print("Число интересное")
+# else:
+#     print("Число неинтересное")
+
+
+print(abs(10.31-23))
