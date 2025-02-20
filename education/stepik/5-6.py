@@ -156,4 +156,36 @@
 #     print("Число неинтересное")
 
 
-print(abs(10.31-23))
+# print(abs(10.31-23))
+# a = input()
+# b = input()
+# c = input()
+# a2 = len(a)
+# b2 = len(b)
+# c2 = len(c)
+# if min(a2,b2,c2) == a2:
+#     print(a)
+# elif min(a2,b2,c2) == b2:
+#     print(b)
+# elif min(a2,b2,c2) == c2:
+#     print(c)
+# if max(a2,b2,c2) == a2:
+#     print(a)
+# elif max(a2,b2,c2) == b2:
+#     print(b)
+# elif max(a2,b2,c2) == c2:
+#     print(c)
+#
+
+# a = len(input())
+# b = len(input())
+# c = len(input())
+# if (2*b-c-a)*(2*c-b-a)*(2*a-b-c) == 0:
+#     print("YES")
+# else:
+#     print("NO")
+
+# s = input()
+# if len(s) == 1 in "синий":
+#     print("YES")
+

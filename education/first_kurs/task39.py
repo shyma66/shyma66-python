@@ -1,7 +1,7 @@
 import qrcode
 
 # Текст, который вы хотите закодировать в QR-код
-data = "https://link.clashofclans.com/en?action=OpenClanProfile&tag=2LGJUYY8U"
+data = "https://www.reuters.com/technology/space/us-faa-moves-streamline-key-commercial-space-launch-hurdle-2024-12-13/"
 
 # Создайте объект QRCode
 qr = qrcode.QRCode(
